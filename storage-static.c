@@ -8,7 +8,6 @@ int main()
   printf("before count=> %d", count);
   while (count--) // Todo?  这里是啥意思？
   {
-    printf("after count=> %d", count);
     func1();
   }
   return 0;
